@@ -10,7 +10,7 @@ average of evenly spaced terms = sum(first + last term) / 2
 
     sum of all terms = sum(first + last term) / 2 * number of terms;
 
-General formular:
+General formula:
     sum = average * number of terms
 
 """
